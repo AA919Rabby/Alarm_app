@@ -72,6 +72,21 @@ Geolocator for generic location
 
 
 
+[Onboarding screen](Screenshot_20260203_220709.jpg)
+
+
+
+[Location permission](Screenshot_20260203_220715.jpg)
+
+
+
+
+[Alarm off notification](Screenshot_20260203_220818.jpg)
+
+
+
+
+[Main screen](Screenshot_20260203_221039.jpg)
 
 
 
